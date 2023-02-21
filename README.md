@@ -11,7 +11,7 @@
 <br>
 I am a Master's student in Data Science at Indiana University and a Research Assistant at Kelly School of Business, where I work as a Business Analyst and Machine Learning Researcher.
 I have experience as a Co-Founder in the Information Technology and services industry, and as a Machine Learning intern at the Indian Institute of Technology, Guwahati.
-<br>
+<br> <br>
 
 <table>
   <tr>
