@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Data science and Econometrics projects. <br>
 - 🤔 I’m looking for help with Data Analytics and Machine Learning. <br>
 - 💬 Ask me about Comics, Movies and Food.. <br>
-- 📫 How to reach me: https://www.linkedin.com/in/adityamhaske/ <br>
+- 📫 Connect me on LinkedIn: https://www.linkedin.com/in/adityamhaske/ <br>
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
 <br><br>
 I am a Master's student in Data Science at Indiana University and a Research Assistant at Kelly School of Business, where I work as a Business Analyst and Machine Learning Researcher.
