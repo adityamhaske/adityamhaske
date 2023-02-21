@@ -1,17 +1,16 @@
 
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamhaske&label=Profile%20views&color=0e75b6&style=flat" alt="adityamhaske" /> </p>
-- 🔭 I’m currently working on Productionize ML. <br>
-- 🌱 I’m currently learning various things. <br>
-- 👯 I’m looking to collaborate on Full Stack ML. <br>
-- 🤔 I’m looking for help with Data Analytics and Data Science. <br>
-- 💬 Ask me about Chess, Movies and Food.. <br>
+- 🔭 I’m currently working on trade and Sales forecasting with Kelley School of Business. <br>
+- 🌱 I’m currently learning Cross-Classified Multilevel models and Economics. <br>
+- 👯 I’m looking to collaborate on Data science and Econometrics projects. <br>
+- 🤔 I’m looking for help with Data Analytics and Machine Learning. <br>
+- 💬 Ask me about Comics, Movies and Food.. <br>
 - 📫 How to reach me: https://www.linkedin.com/in/adityamhaske/ <br>
-- ⚡ Fun fact: I love photography and Music.. <br>
-
-
-I’m a data scientist and like to research on **machine learning** and **artificial intelligence**. I have a background working with large and varied datasets and using advanced statistical methods. 
-I **transform data into valuable and tangible insights** through data science techniques, machine learning and visualization.
+- ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
+<br><br>
+I am a Master's student in Data Science at Indiana University and a Research Assistant at Kelly School of Business, where I work as a Business Analyst and Machine Learning Researcher.
+I have experience as a Co-Founder in the Information Technology and services industry, and as a Machine Learning intern at the Indian Institute of Technology, Guwahati.
 <br>
 
 <table>
@@ -63,7 +62,7 @@ I **transform data into valuable and tangible insights** through data science te
   </tr>
   <tr>
     <td valign="middle">
-      <span>Graphics</span>
+      <span>Visualization</span>
     </td>
     <td valign="middle">
       <div float="left">
@@ -75,7 +74,7 @@ I **transform data into valuable and tangible insights** through data science te
   </tr>
   <tr>
     <td valign="middle">
-      <span>Version Control & Editors</span>
+      <span>Editors</span>
     </td>
     <td valign="middle">
       <div float="left">
