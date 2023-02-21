@@ -8,7 +8,7 @@
 - 💬 Ask me about Comics, Movies and Food.. <br>
 - 📫 Connect me on LinkedIn: https://www.linkedin.com/in/adityamhaske/ <br>
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
-<br><br>
+<br>
 I am a Master's student in Data Science at Indiana University and a Research Assistant at Kelly School of Business, where I work as a Business Analyst and Machine Learning Researcher.
 I have experience as a Co-Founder in the Information Technology and services industry, and as a Machine Learning intern at the Indian Institute of Technology, Guwahati.
 <br>
