@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamhaske&label=Profile%20views&color=0e75b6&style=flat" alt="adityamhaske" /> </p>
+
 - 🔭 I’m currently working on Trade and Sales forecasting with Kelley School of Business. <br>
 - 🌱 I’m currently learning Cross-Classified Multilevel models and Economics. <br>
 - 👯 I’m looking to collaborate on Data science and Econometrics projects. <br>
