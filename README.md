@@ -7,6 +7,7 @@
 - 💬 Ask me about Comics, Movies and Food.. <br>
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
 <br>
+
 #### Find me around the web 🌎:
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
