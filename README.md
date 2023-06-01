@@ -1,16 +1,19 @@
 
-### Hi there 👋
+### Hi there, I am Aditya 👋
 
 - 🔭 I’m currently working on Trade and Sales forecasting with Kelley School of Business. <br>
 - 🌱 I’m currently learning Cross-Classified Multilevel models and Economics. <br>
 - 👯 I’m looking to collaborate on Data science and Econometrics projects. <br>
-- 🤔 I’m looking for help with Data Analytics and Machine Learning. <br>
 - 💬 Ask me about Comics, Movies and Food.. <br>
-- 📫 Connect me on LinkedIn: https://www.linkedin.com/in/adityamhaske/ <br>
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
 <br>
-I am a Master's student in Data Science at Indiana University and a Research Assistant at Kelly School of Business, where I work as a Business Analyst and Machine Learning Researcher.
-I have experience as a Co-Founder in the Information Technology and services industry, and as a Machine Learning intern at the Indian Institute of Technology, Guwahati.
+
+#### Find me around the web 🌎:
+- 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
+- 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
+- 📫 How to reach me: admhaske@iu.edu 
+- 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
+
 <br> <br>
 
 <table>
