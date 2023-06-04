@@ -12,6 +12,7 @@
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
 - 📫 How to reach me: admhaske@iu.edu 
+- 📑 Check out my <a href="https://www.kaggle.com/adityamhaske">Kaggle Notebooks</a> 
 - 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <br>
@@ -26,9 +27,7 @@
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?&style=flat-square&logo=nvidia&logoColor=white"/>
         <img src="https://img.shields.io/badge/Matlab-%23ff800f.svg?&style=flat-square&logo=octave&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
       </div>
     </td>
