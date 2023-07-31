@@ -12,7 +12,6 @@
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
 - 📫 How to reach me: admhaske@iu.edu 
-- 📑 Check out my <a href="https://www.kaggle.com/adityamhaske">Kaggle Notebooks</a> 
 - 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <br>
@@ -90,3 +89,16 @@
   </tr>
   
 </table>
+
+<br>
+
+### Check out my <a href="https://www.kaggle.com/adityamhaske">Kaggle Profile</a> 
+
+<br>
+
+![adityamhaske](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adityamhaske)
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/discussion/light)
