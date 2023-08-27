@@ -98,7 +98,6 @@
 
 ![adityamhaske](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adityamhaske)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/discussion/light)
