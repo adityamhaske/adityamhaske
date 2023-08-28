@@ -1,5 +1,5 @@
 
-### Hi there, I am Aditya 👋
+## Hi there, I am Aditya 👋
 
 - 🔭 I’m currently working on Trade and Sales forecasting with Kelley School of Business. <br>
 - 🌱 I’m currently learning Cross-Classified Multilevel models and Economics. <br>
@@ -8,13 +8,26 @@
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
 
 
-#### Find me around the web 🌎:
+### Find me around the web 🌎:
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
 - 📫 How to reach me: admhaske@iu.edu 
 - 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
-<br>
+<be>
+
+### Check out my <a href="https://www.kaggle.com/adityamhaske">Kaggle Profile</a> 
+
+
+![adityamhaske](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adityamhaske)
+
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/discussion/light)
+
+<be>
+
+### Technical Skills
 
 <table>
   <tr>
@@ -92,12 +105,4 @@
 
 <br>
 
-### Check out my <a href="https://www.kaggle.com/adityamhaske">Kaggle Profile</a> 
 
-<br>
-
-![adityamhaske](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adityamhaske)
-
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/discussion/light)
