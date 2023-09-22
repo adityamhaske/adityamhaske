@@ -1,10 +1,8 @@
 
 ## Hi there, I am Aditya 👋
 
-- 🔭 I’m currently working on Trade and Sales forecasting with Kelley School of Business. <br>
-- 🌱 I’m currently learning Cross-Classified Multilevel models and Economics. <br>
-- 👯 I’m looking to collaborate on Data science and Econometrics projects. <br>
-- 💬 Ask me about Comics, Movies and Food.. <br>
+- 🔭 I’m currently working as a Data Scientist Intern at Twin Cities Innovation Alliance. <br>
+- 💬 Ask me about Comics, Movies, and Food.. <br>
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
 
 
