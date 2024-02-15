@@ -1,7 +1,6 @@
 
 ## Hi there, I am Aditya 👋
 
-- 🔭 I’m currently working as a Data Scientist Intern at Twin Cities Innovation Alliance. <br>
 - 💬 Ask me about Comics, Movies, and Food.. <br>
 - ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
 
@@ -13,18 +12,7 @@
 - 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <be>
-<be>
 
-### Check out my <a href="https://www.kaggle.com/adityamhaske">Kaggle Profile</a> 
-
-
-![adityamhaske](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adityamhaske)
-
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adityamhaske/discussion/light)
-
-<be>
 
 ### Technical Skills
 
