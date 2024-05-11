@@ -9,7 +9,7 @@
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
 - 📫 How to reach me: admhaske@iu.edu 
-- 📄 Here is my Latest <a href="https://github.com/adityamhaske/adityamhaske/blob/main/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
+- 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <be>
 
