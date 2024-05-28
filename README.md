@@ -1,8 +1,10 @@
+<h2>Hi there, I am Aditya Mhaske👋</h2>
+<hr>
+<p>
+I completed my Master’s degree in Data Science at Indiana University, Bloomington. During my studies, I served as a Data Scientist at the Kelley School of Business and also undertook a Data Science Internship at Twin Cities Innovation Alliance. In these roles, my primary focus areas included LLM, NLP, A/B testing, and Statistical Modeling.
 
-## Hi there, I am Aditya 👋
-
-- 💬 Ask me about Comics, Movies, and Food.. <br>
-- ⚡ Fun fact: I love Photography, Cooking and Music.. <br>
+Beyond my academic pursuits, my interests span finance, geopolitics, economics, and marketing, which I've actively shared insights about through published articles on Medium.
+</p>
 
 
 ### Find me around the web 🌎:
@@ -12,9 +14,27 @@
 - 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <be>
+<br>
+<h2>🎓 Education</h2>
+<hr>
+<p>
+    <strong>🇺🇸 Indiana University of Bloomington</strong>
+    <br>
+    Master of Science in Computer Science, Indiana, USA
+    <br>
+    August 2022 - May 2024
+</p>
+<p>
+    <strong>🇮🇳 MIT World Peace University</strong>
+    <br>
+    Bachelor of Engineering in Computer Engineering, Pune, India
+    <br>
+    July 2018 - June 2022
+</p>
+<br> 
 
-
-### Technical Skills
+<h2>Technical Skills</h2>
+<hr>
 
 <table>
   <tr>
