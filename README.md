@@ -14,7 +14,7 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
 - 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <be>
-<br>
+
 <h2>🎓 Education</h2>
 <hr>
 <p>
@@ -31,7 +31,7 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
     <br>
     July 2018 - June 2022
 </p>
-<br> 
+
 
 <h2>Technical Skills</h2>
 <hr>
