@@ -18,14 +18,14 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
 <h2>🎓 Education</h2>
 <hr>
 <p>
-    <strong>🇺🇸 Indiana University of Bloomington</strong>
+    <strong>Indiana University of Bloomington</strong>
     <br>
     Master of Science in Computer Science, Indiana, USA
     <br>
     August 2022 - May 2024
 </p>
 <p>
-    <strong>🇮🇳 MIT World Peace University</strong>
+    <strong>MIT World Peace University</strong>
     <br>
     Bachelor of Engineering in Computer Engineering, Pune, India
     <br>
