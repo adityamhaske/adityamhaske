@@ -11,7 +11,6 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
 - 📫 How to reach me: admhaske@iu.edu 
-- 📄 Here is my Latest <a href="https://adityamhaske.com/files/AdityaSanjay_Mhaske_Resume.pdf" target="_blank"> Resume</a>
 
 <be>
 
@@ -21,15 +20,13 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
     <strong>Indiana University of Bloomington</strong>
     <br>
     Master of Science in Computer Science, Indiana, USA
-    <br>
-    August 2022 - May 2024
+
 </p>
 <p>
     <strong>MIT World Peace University</strong>
     <br>
     Bachelor of Engineering in Computer Engineering, Pune, India
-    <br>
-    July 2018 - June 2022
+
 </p>
 
 
