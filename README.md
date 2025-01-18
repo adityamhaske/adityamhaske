@@ -19,13 +19,13 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
 <p>
     <strong>Indiana University of Bloomington</strong>
     <br>
-    Master of Science in Computer Science, Indiana, USA
+    Master of Science in Data Science | Bloomington, IN, USA
 
 </p>
 <p>
     <strong>MIT World Peace University</strong>
     <br>
-    Bachelor of Engineering in Computer Engineering, Pune, India
+    Bachelor of Engineering in Computer Engineering | Pune, MH, India
 
 </p>
 
