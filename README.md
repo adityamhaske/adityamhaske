@@ -1,7 +1,7 @@
 <h2>Hi there, I am Aditya Mhaske👋</h2>
 <hr>
 <p>
-I am a Data Scientist at the BMR Infotek. I completed my Master’s degree in Data Science at Indiana University, Bloomington. My primary focus areas in these roles included LLM, NLP, A/B testing, and Statistical Modeling.
+I am a Software Engineer at Diversified Automation. I completed my Master’s degree in Data Science at Indiana University, Bloomington. My primary focus areas in these roles included LLM, NLP, A/B testing, and Statistical Modeling.
 
 Beyond my academic pursuits, my interests span finance, geopolitics, economics, and marketing, which I've actively shared insights about through published articles on Medium.
 </p>
