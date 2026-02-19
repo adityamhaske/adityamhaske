@@ -10,7 +10,7 @@ Beyond my academic pursuits, my interests span finance, geopolitics, economics, 
 ### Find me around the web 🌎:
 - 🖥 Everything about me on my <a href="https://adityamhaske.com">website</a> 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/adityamhaske/">LinkedIn</a> 
-- 📫 How to reach me: admhaske@iu.edu 
+- 📫 How to reach me: adityamh80@gmail.com
 
 <be>
 
