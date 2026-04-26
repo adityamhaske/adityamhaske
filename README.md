@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aditya Mhaske 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer · Data Scientist · ML Enthusiast</strong><br/>
+  <strong>Software Engineer · Data Scientist · AIML</strong><br/>
   Building intelligent systems at the intersection of data, language, and automation.
 </p>
 
