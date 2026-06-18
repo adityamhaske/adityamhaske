@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-**Software Engineer at Diversified Automation** | **M.S. Data Science, Indiana University Bloomington**
+**Software Engineer at Diversified Automation** | **M.S. Computational Science, Indiana University Bloomington**
 
 I build production-grade AI and data systems — from vector search and RAG pipelines to large-scale NLP and real-time analytics. I've published **5 peer-reviewed papers**, hold **2 patents**, and love turning complex research into products people actually use.
 
@@ -19,7 +19,7 @@ I build production-grade AI and data systems — from vector search and RAG pipe
 - 📊 Run statistical experiments and build data pipelines at scale
 - ⚡ Ship microservices with CI/CD, Docker, and AWS
 
-**Previously:** Data Scientist at BMR Infotek · Research Assistant at Kelley School of Business (IU) · Data Engineer at Moonplexus · ML Intern at IIT Guwahati
+**Previously:** Software Engineer at BMR Infotek · Graduate Research Assistant at Kelley School of Business (IU) · Co-Founder and CTO at Moonplexus · Research Intern at IIT Guwahati
 
 <br>
 
