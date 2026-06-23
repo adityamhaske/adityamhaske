@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-**Software Engineer at Diversified Automation** | **M.S. Computational Science, Indiana University Bloomington**
+**Software Engineer at Leadec** | **M.S. Computational Science, Indiana University Bloomington**
 
 I build production-grade AI and data systems — from vector search and RAG pipelines to large-scale NLP and real-time analytics. I've published **5 peer-reviewed papers**, hold **2 patents**, and love turning complex research into products people actually use.
 
