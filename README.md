@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/adityamhaske/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=klyUNDAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
   <a href="mailto:adityamh80@gmail.com"><img src="https://img.shields.io/badge/Email-adityamh80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/adityamhaske/"><img src="https://img.shields.io/badge/LeetCode-adityamhaske-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  
 </p>
 
 ## 👋 About Me
