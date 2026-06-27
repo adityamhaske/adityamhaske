@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Mhaske&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Researcher&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Mhaske&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Researcher&descSize=16&descAlignY=52" width="100%"/>
 
 <p align="center">
   <a href="https://adityamhaske.com"><img src="https://img.shields.io/badge/🌐_Portfolio-adityamhaske.com-6366f1?style=for-the-badge"/></a>
@@ -19,9 +19,12 @@ I build production-grade AI and data systems — from vector search and RAG pipe
 - 📊 Run statistical experiments and build data pipelines at scale
 - ⚡ Ship microservices with CI/CD, Docker, and AWS
 
-**Previously:** Software Engineer at BMR Infotek · Graduate Research Assistant at Kelley School of Business (IU) · Co-Founder and CTO at Moonplexus · Research Intern at IIT Guwahati
+**Previously:** 
+- Software Engineer at BMR Infotek
+- Graduate Research Assistant at Kelley School of Business (IU)
+- Co-Founder and CTO at Moonplexus
+- Research Intern at IIT Guwahati
 
-<br>
 
 ## 🛠️ Tech Stack
 
