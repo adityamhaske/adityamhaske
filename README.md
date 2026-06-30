@@ -1,19 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Mhaske&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Researcher&descSize=16&descAlignY=52" width="100%"/>
+## 👋 Hello, I am Aditya! 
+**Software Engineer at Leadec** | **MS in Computational Science, Indiana University Bloomington**
 
+- I build production-grade AI and data systems — from vector search and RAG pipelines to large-scale NLP and real-time analytics. 
+- I've published **5 peer-reviewed papers**, filed **2 patents**, and love turning complex research into products people actually use.
+
+### 
 <p align="center">
   <a href="https://adityamhaske.com"><img src="https://img.shields.io/badge/🌐_Portfolio-adityamhaske.com-6366f1?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/adityamhaske/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=klyUNDAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
   <a href="mailto:adityamh80@gmail.com"><img src="https://img.shields.io/badge/Email-adityamh80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/adityamhaske/"><img src="https://img.shields.io/badge/LeetCode-adityamhaske-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  
 </p>
-
-## 👋 About Me
-
-**Software Engineer at Leadec** | **M.S. Computational Science, Indiana University Bloomington**
-
-I build production-grade AI and data systems — from vector search and RAG pipelines to large-scale NLP and real-time analytics. I've published **5 peer-reviewed papers**, hold **2 patents**, and love turning complex research into products people actually use.
 
 **What I do day-to-day:**
 - 🔍 Design hybrid search systems combining keyword + semantic retrieval
