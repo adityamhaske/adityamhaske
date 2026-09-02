@@ -1,10 +1,6 @@
-# 👋 Hello, I'm Aditya!
-**Software Engineer at Leadec**
+## 👋 Hello, I'm Aditya!
+**Software Engineer at Leadec** 🎓 **M.S. in CS, IUB**
 
-🎓 **M.S. in Computational Science, Indiana University Bloomington**
+🚀 Explore my projects and experiments here github.io.
 
-<p align="center">
-<a href="https://adityamhaske.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio"/></a>
-</p>
-
-🚀 Explore my projects, technical work, and professional journey on my portfolio website.
+<a href="https://adityamhaske.github.io/" target="_blank"><img src="https://img.shields.io/badge/%20adityamhaske.github.io-red?style=for-the-badge" alt="Portfolio"/></a>
