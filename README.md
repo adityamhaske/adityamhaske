@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya
 
-**Software Engineer at Leadec** · **M.S. in Computational Science, IUB**
+**Software Engineer at Leadec** · **MS in CS, Indiana University, Bloomington**
 
 I write code, build things, and occasionally surprise myself with how well it works.
 
